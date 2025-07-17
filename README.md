@@ -8,7 +8,6 @@
 ### 🔗 Connect with Me
 
 - [LinkedIn: Deep Pandya](https://www.linkedin.com/in/deep-pandya-763648244/)
-- [GitHub: Deep Pandya](https://github.com/Dpandya22)
 - 📧 Email: deeppandya.work@gmail.com
 
 ---
