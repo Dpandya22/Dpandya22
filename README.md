@@ -23,7 +23,7 @@
 
 ### 📌 Projects
 - **Customer Management System** – Built with Django + MySQL
-- 
+  
 ---
 
 Thanks for visiting my profile! 😊
