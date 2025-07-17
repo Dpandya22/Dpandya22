@@ -14,9 +14,9 @@
 
 ### 🛠️ Languages & Tools
 - Java, C, C++
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Php
 - React (Basic), Django
-- MySQL, Oracle DB, Nosql
+- MySQL, Oracle DB, NoSQL
 
 ---
 
