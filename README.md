@@ -1,7 +1,7 @@
 # Hi, I'm Deep Pandya 👋
 
-🎓 BCA Graduate | 🎓 Currently Pursuing MCA  | 💻 Aspiring QA
-🚀 Passionate about ensuring software quality and finding the "unfindable" bugs.
+### 🎓 BCA Graduate | 🎓 Currently Pursuing MCA | 💻 Aspiring QA
+### 🚀 Passionate about ensuring software quality and finding the "unfindable" bugs.
 
 ---
 
